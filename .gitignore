@@ -1,0 +1,22 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment folders
+.venv/
+env/
+
+# OS metadata
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Environment/config files
+.env
+
+# Ignore Docker image layers
+*.tar
+
+# Test output
+*.log
